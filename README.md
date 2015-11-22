@@ -1,0 +1,2 @@
+# Manifesto
+Software Developer Manifesto
