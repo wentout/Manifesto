@@ -1,5 +1,4 @@
-# Manifesto
-Software Developer Manifesto
+# Software Developer Manifesto
 
 
 1. Software Developer may not injure a User or, through inaction, allow a User being to come to harm.
